@@ -1,3 +1,6 @@
+Smartphone Power Consumption Data Collection Process
+
+The objective of this workflow is to collect high-frequency battery, network, and processor state data from a Xiaomi smartphone using a Windows batch script (via ADB) at 1-minute intervals. This data is intended for building a battery power model.
 1. Preparation
 
 Hardware Connection: Connect the Xiaomi smartphone to the PC via USB cable or Wi-Fi debugging.
